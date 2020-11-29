@@ -1,7 +1,9 @@
 # open-data-structures
 ![test](https://cdn.shopify.com/s/files/1/1634/7169/products/cover-0_160x.png?v=1531786466)
 
-[1.2 インターフェース](#12-インターフェース)
+- [1.2 インターフェース](#12-インターフェース)
+  - [インターフェース interface](#インターフェース-interface)
+  - [実装 implementation](#実装-implementation)
 
 ### 1.2 インターフェース
 - データ構造のインターフェースと実装について
