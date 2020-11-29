@@ -104,9 +104,8 @@
 - 全順序集合（任意の2要素`x`, `y`について大小を比較できる集合）の要素が入る
   - 本書では下記のように定義される`compare(x, y)`メソッドで比較する
 
-```latex
-compare(x, y) =  \left\{  \begin{array}{rcl}  <0 & if & x<y\\\  >0 & if & x>y \\\ =0 & if & x=y  \end{array}  \right.
-```
+<img src="https://latex.codecogs.com/gif.latex?compare(x,&space;y)&space;=&space;\left\{&space;\begin{array}{rcl}&space;<0&space;&&space;if&space;&&space;x<y\\\&space;>0&space;&&space;if&space;&&space;x>y&space;\\\&space;=0&space;&&space;if&space;&&space;x=y&space;\end{array}&space;\right."/>
+
 - 実行できる操作
   1. `size()`：USetと同じセマンティクス
   2. `add(x)`：同上
