@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [open-data-structures](#open-data-structures)
+    - [1.2 インターフェース](#12-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)
+      - [インターフェース interface](#%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9-interface)
+      - [実装 implementation](#%E5%AE%9F%E8%A3%85-implementation)
+      - [Queueインターフェース :cucumber:](#queue%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9-cucumber)
+      - [Listインターフェース：線形シーケンス :bicyclist:](#list%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%E7%B7%9A%E5%BD%A2%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9-bicyclist)
+      - [USetインターフェース :us:](#uset%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9-us)
+      - [SSetインターフェース :bar_magnet:](#sset%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9-bar_magnet)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # open-data-structures
 ![test](https://cdn.shopify.com/s/files/1/1634/7169/products/cover-0_160x.png?v=1531786466)
 
