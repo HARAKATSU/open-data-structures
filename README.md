@@ -94,6 +94,7 @@
     - `addLast(x)`→`add(size(), x)`
     - `removeLast()`→`remove(size()-1)`
 
+
 ---
 #### USetインターフェース :us:
 - 重複がなく、順序付けられていない要素の集まり（U…unordered）
